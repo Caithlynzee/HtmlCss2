@@ -1,16 +1,7 @@
-* {
-  margin: 0px;
-  padding: 0px;
-}
 
-body {
-  background-color:   #eabfff;
-}
-
-h2{
-  color: #47006b;
-}
-
-p{
-  color: purple;
+header {
+  background-image:url('data-1.jpg');
+  width: 960px;
+  height: 150px;
+  background-color: red;
 }
